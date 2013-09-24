@@ -38,6 +38,8 @@ The parameters that can be passed are;
 
 The web service can create two resource types, file or label.
 
-A zipped folder can be sent identified with a type of 'folder'.
-The folder will be unzipped and if a mainfile is specified that file will be opened when the a user clicks on the resource in Moodle.
+A zipped folder can be sent identified with a type of 'folder'. The folder will still be a file resource but the
+folder will be unzipped and can be navigated in Moodle.
+
+If a mainfile attribute is specified that file will be opened when a user clicks on the resource in Moodle.
 This can be useful for sending HTML pages that have bundled resources.
