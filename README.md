@@ -11,3 +11,5 @@ Installation
 
    This should trigger a Moodle upgrade and the new web service should be available in the site administration
    (Site administration -> Notifications)
+   
+3- You will need to assign Moodle permissions and access as suits your Moodle installation.
